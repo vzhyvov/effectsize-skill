@@ -1,0 +1,17 @@
+{
+  "name": "effectsize",
+  "owner": {
+    "name": "effectsize.io",
+    "url": "https://effectsize.io"
+  },
+  "metadata": {
+    "description": "effectsize: real-world case studies for analytics and ML problems, for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "effectsize",
+      "source": "./",
+      "description": "Real-world case studies for product analytics, A/B testing, causal inference, recommendations, search and ML problems."
+    }
+  ]
+}

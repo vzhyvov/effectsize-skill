@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "effectsize": { "type": "http", "url": "https://mcp.effectsize.io/mcp" }
+  }
+}

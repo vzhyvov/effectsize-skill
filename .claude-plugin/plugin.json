@@ -1,0 +1,23 @@
+{
+  "name": "effectsize",
+  "version": "0.1.0",
+  "description": "Real-world case studies for product analytics, A/B testing, causal inference, recommendations, search and ML problems: a skill plus the effectsize MCP server.",
+  "author": {
+    "name": "effectsize.io",
+    "url": "https://effectsize.io"
+  },
+  "homepage": "https://effectsize.io/mcp/",
+  "repository": "https://github.com/vzhyvov/effectsize-skill",
+  "license": "MIT",
+  "keywords": [
+    "ab-testing",
+    "experimentation",
+    "causal-inference",
+    "product-analytics",
+    "recommender-systems",
+    "search",
+    "mcp",
+    "case-studies"
+  ],
+  "privacyPolicyUrl": "https://effectsize.io/privacy/"
+}
