@@ -1,6 +1,6 @@
 # effectsize skill and MCP server
 
-Give your AI agent 1,300+ real-world case studies of how companies solved product analytics, A/B testing, causal
+Give your AI agent thousands of real-world case studies of how companies solved product analytics, A/B testing, causal
 inference, recommendation, search, fraud, forecasting, ML and LLM-in-analytics problems. Ask a question, and the
 agent answers with what actually worked at Netflix, Airbnb, Uber, DoorDash, Meta and hundreds of other companies,
 with a link to each case and its original post or talk.
