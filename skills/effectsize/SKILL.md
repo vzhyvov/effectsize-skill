@@ -1,6 +1,6 @@
 ---
 name: effectsize
-description: Find how real companies solved product analytics, A/B testing, causal inference, metrics, recommendation, search, personalization, fraud, forecasting, ML and LLM-in-analytics problems. 1,300+ reviewed case studies from company engineering blogs and conference talks (Netflix, Airbnb, Uber, DoorDash, Meta, Booking and hundreds more), searched through the effectsize MCP server. Use when the user asks how to approach such a problem, which method to pick, or how other companies did it.
+description: Find how real companies solved product analytics, A/B testing, causal inference, metrics, recommendation, search, personalization, fraud, forecasting, ML and LLM-in-analytics problems. Thousands of reviewed case studies from company engineering blogs and conference talks (Netflix, Airbnb, Uber, DoorDash, Meta, Booking and hundreds more), searched through the effectsize MCP server. Use when the user asks how to approach such a problem, which method to pick, or how other companies did it.
 ---
 
 # effectsize: real-world cases for analytics and ML problems
